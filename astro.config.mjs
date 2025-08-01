@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind';
 
 import sitemap from "@astrojs/sitemap";
 
-// https://astro.build/config
+// https://ibacachefabian.github.io
 export default defineConfig({
   devToolbar: {
     enabled: false
