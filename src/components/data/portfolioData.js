@@ -19,7 +19,7 @@ export const portafolioData = [
 	{
 		imgSrc: 'https://raw.githubusercontent.com/IbacacheFabian/ibacachefabian.github.io/8ef16b08fa7cc2f34bc243733549df1926c54fae/public/img/Captura%20de%20Pantalla%202025-08-02%20a%20la(s)%2004.27.21.png',
 		title: 'Green Win',
-		skills: ['Agile', 'Canva'],
+		skills: ['CSS', 'Bootstrap'],
 		descripcion:
 			'Aplicación que promueve el reciclaje y los hábitos sostenibles mediante un sistema de incentivos.',
 		demoURL: 'https://greenwinlab.my.canva.site/',
@@ -27,19 +27,19 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: 'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/299377097/original/7eb7dcebe244fcf5ad75d92b0969fc116946bd57/create-professional-amd-responsive-wordpress-website.jpg',
-		title: 'E-commerce',
+		imgSrc: 'https://raw.githubusercontent.com/IbacacheFabian/ibacachefabian.github.io/refs/heads/main/public/img/Captura%20de%20Pantalla%202025-08-02%20a%20la(s)%2005.23.26.png',
+		title: 'Viaje Smart',
 		skills: ['JavaScript', 'Bootstrap'],
 		descripcion:
-			' Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
+			' Aplicación móvil diseñada con metodologías ágiles, que comprende la respuesta a usuarios que requieren resolver la necesidad de trasladarse por lugares más expeditos y así mejorar su calidad de vida.',
+		demoURL: 'https://www.canva.com/design/DAGqZdpxZC4/SkHTspXLEI13poFreTz39w/edit?utm_content=DAGqZdpxZC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
 		repoURL: '',
 		anim: 'fade-up',
 		averageBrightness: 0.1,
 	},
 	{
 		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
+		title: 'Trekking APP',
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
@@ -49,7 +49,7 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: 'https://www.corse.mx/cdn/shop/files/tienda_lenceria-lenceria-hot_sale-ofertas-mexico-lenceria_seyx-encaje-corse_mx-corse_lenceria_1200_x_560_px_13.png?v=1712270274&width=1500',
-		title: 'Coffe Store',
+		title: 'Pendiente',
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
@@ -59,7 +59,7 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
+		title: 'Pendiente',
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
@@ -69,7 +69,7 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
+		title: 'Pendiente',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
