@@ -17,7 +17,7 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'https://github.com/IbacacheFabian/ibacachefabian.github.io/blob/main/public/img/Captura%20de%20Pantalla%202025-08-02%20a%20la(s)%2004.27.21.png',
+		imgSrc: 'https://raw.githubusercontent.com/IbacacheFabian/ibacachefabian.github.io/8ef16b08fa7cc2f34bc243733549df1926c54fae/public/img/Captura%20de%20Pantalla%202025-08-02%20a%20la(s)%2004.27.21.png',
 		title: 'Green Win',
 		skills: ['Agile', 'Canva'],
 		descripcion:
