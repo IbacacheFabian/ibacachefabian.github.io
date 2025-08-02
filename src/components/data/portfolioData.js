@@ -17,12 +17,12 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
-		skills: ['React', 'StyledComponents'],
+		imgSrc: 'IbacacheFabian/ibacachefabian.github.io/public/img/greenwin.png',
+		title: 'Green Win',
+		skills: ['Agile', 'Canva'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
+			'Aplicación que promueve el reciclaje y los hábitos sostenibles mediante un sistema de incentivos.',
+		demoURL: 'https://greenwinlab.my.canva.site/',
 		repoURL: '',
 		anim: 'fade-right',
 	},
