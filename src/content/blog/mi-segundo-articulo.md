@@ -1,13 +1,13 @@
 ---
-title: "JavaScript:Funciones y ambito de las variables"
-description: "Funciones y Comprendiendo Variables"
+title: "Design Thinking"
+description: "Orientación para las ideas"
 pubDate: 'Apr 08 2024'
-heroImage: "../img/monachina2.jpg"
+heroImage: "../img/design-thinking.webp"
 ---
 
 ## JavaScript: Explorando Funciones y Comprendiendo Variables
 
-![javascript image](/img/monachina2.jpg)
+![javascript image](/design-thinking.webp)
 
 En esta segunda entrega de nuestra guía práctica de JavaScript, nos sumergiremos en el fascinante mundo de las funciones y exploraremos las sutilezas entre `var`, `let` y `const`. Prepárate para desentrañar estos conceptos cruciales en tu viaje por el desarrollo web.
 
