@@ -17,7 +17,7 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'https://drive.google.com/file/d/1OGIp_sw5BqTfScYC-NMXruT8reqSPCh_/',
+		imgSrc: 'https://drive.google.com/file/d/1OGIp_sw5BqTfScYC-NMXruT8reqSPCh_/view',
 		title: 'Green Win',
 		skills: ['Agile', 'Canva'],
 		descripcion:
