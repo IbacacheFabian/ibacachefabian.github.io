@@ -43,7 +43,7 @@ export const portafolioData = [
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Desarrollo en fase de Design Thinking, pendiente MVP.',
-		demoURL: '',
+		demoURL: 'https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/35d8ca6ac2bdfd0e466436c14d3c3f101cf0c11f',
 		repoURL: '',
 		anim: 'fade-left',
 	},
@@ -53,7 +53,7 @@ export const portafolioData = [
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Galería de imagenes en sesiones en vivo de fotografía deportiva',
-		demoURL: 'https://www.flickr.com/photos/mastercaiser/albums/',
+		demoURL: 'https://www.flickr.com/photos/mastercaiser/',
 		repoURL: '',
 		anim: 'fade-left',
 	},
@@ -62,7 +62,7 @@ export const portafolioData = [
 		title: '3D design',
 		skills: ['React', 'CSS'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Visita mi perfil como diseñador de piezas 3D para imprimir.',
 		demoURL: 'https://cults3d.com/@fmunozibacache',
 		repoURL: '',
 		anim: 'fade-left',
