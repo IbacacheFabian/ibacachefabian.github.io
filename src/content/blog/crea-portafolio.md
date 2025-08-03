@@ -10,7 +10,7 @@ heroImage: "../img/scrumflow.png"
 
 ![javascript image](/img/scrumflow.png)
 
-### ¿Que hace un Product Owner?
+# ¿Que hace un Product Owner?
 
 Un Product Owner (PO), o propietario del producto, es el cargo de una organizacion que tiene como funcion principal optimizar maximizando el valor del producto a traves de levantamiento de informacion del cliente. Este tambien puede ser un servicio desarrollado por un equipo TI
 
@@ -46,6 +46,8 @@ stakeholders; asegurando que
 sea práctica, atractiva y viable
 en contextos corporativos y de mercado.
 
+![javascript image](/img/PO1.png)
+
 ### Definición de la Visión del Producto
 
 Es una declaración estratégica que describe el impacto deseado del
@@ -77,6 +79,9 @@ pegamento entre equipo, stakeholders y clientes.
 
 Componentes de una Visión Efectiva
 Una visión sólida tiene 4 pilares:
+
+![javascript image](/img/PO2.png)
+
 1. Propósito: Resuelve un problema real. NotCo: “Reducir huella
 ambiental” (alimentación genera 26% CO2 global, FAO, 2024).
 Spotify: “Acceso universal a música”.
@@ -105,6 +110,7 @@ plantea Eric Ries (2011): “Construye, mide, aprende”. Es una herramienta
 fundamental para validar tempranamente la visión de producto,
 asegurando su atractivo para el mercado.”
 
+![javascript image](/img/PO3.png)
 
 #### Creación de la Visión del Producto
 
