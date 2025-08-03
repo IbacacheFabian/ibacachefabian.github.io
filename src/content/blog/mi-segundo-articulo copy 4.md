@@ -1,7 +1,8 @@
 ---
-title: "JavaScript:Funciones y ambito de las variables"
-description: "Funciones y Comprendiendo Variables"
-pubDate: 'Apr 5 2024'
+title: "Marketing Digital"
+description: "Herramientas para propulsar tu negocio"
+pubDate: 'Apr 5 2025'
+updatedDate: 'Jun 26 2025'
 heroImage: "../img/monachina2.jpg"
 ---
 

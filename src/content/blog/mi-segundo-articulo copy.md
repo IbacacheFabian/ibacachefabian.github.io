@@ -1,7 +1,8 @@
 ---
 title: "Lean Startup"
 description: "Los principios de una startup"
-pubDate: 'Apr 13 2024'
+pubDate: 'Jun 03 2025'
+updatedDate: 'Jun 27 2025'
 heroImage: "../img/infografia-lean.jpg"
 ---
 

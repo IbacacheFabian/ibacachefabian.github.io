@@ -1,13 +1,14 @@
 ---
-title: "JavaScript:Tutorial Menú Hamburguesa"
-description: "Soy un post reciente"
-pubDate: 'Apr 30 2024'
-heroImage: "../img/monachina2.jpg"
+title: "Usa la tech Agile Inception "
+description: "Alinea rapidamente tu equipo hacia una vision"
+pubDate: 'Jul 01 2025'
+updatedDate: 'Jun 25 2025'
+heroImage: "../img/agile1.jpg"
 ---
 
-## JavaScript: Explorando Funciones y Comprendiendo Variables
+## Como alinear tu equipo hacia una Vision prospera y valiosa
 
-![javascript image](/img/monachina2.jpg)
+![javascript image](/img/agile1.jpg)
 
 En esta segunda entrega de nuestra guía práctica de JavaScript, nos sumergiremos en el fascinante mundo de las funciones y exploraremos las sutilezas entre `var`, `let` y `const`. Prepárate para desentrañar estos conceptos cruciales en tu viaje por el desarrollo web.
 

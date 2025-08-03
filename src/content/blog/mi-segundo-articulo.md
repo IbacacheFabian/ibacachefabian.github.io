@@ -1,7 +1,8 @@
 ---
 title: "Design Thinking"
 description: "Orientación para las ideas"
-pubDate: 'Apr 08 2024'
+pubDate: 'Jun 08 2025'
+updatedDate: 'Jun 25 2025'
 heroImage: "../img/design-thinking.webp"
 ---
 
