@@ -39,12 +39,12 @@ export const portafolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: 'https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/35d8ca6ac2bdfd0e466436c14d3c3f101cf0c11f',
+		imgSrc: 'https://raw.githubusercontent.com/IbacacheFabian/ibacachefabian.github.io/refs/heads/main/public/img/screenformula.png',
 		title: 'Formula 1',
-		skills: ['React', 'CSS'],
+		skills: ['React', 'CSS','JavaScript', 'Bootstrap'],
 		descripcion:
-			'Desarrollo en fase de Design Thinking, pendiente MVP.',
-		demoURL: 'https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/35d8ca6ac2bdfd0e466436c14d3c3f101cf0c11f',
+			'Portafolio de actividades desarrolladas con el DevTeam.',
+		demoURL: 'https://www.notion.so/F-RMULA-I-2313a5030e358025b3dcdba1ee579e94',
 		repoURL: '',
 		anim: 'fade-left',
 	},
