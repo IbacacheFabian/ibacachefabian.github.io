@@ -1,8 +1,8 @@
 ---
 title: "Bootcamp: Product Owner"
 description: "Todas las funcionalidades escenciales para desarrollar productos con agilidad"
-pubDate: 'Apr 14 2024'
-updatedDate: 'Apr 24 2024'
+pubDate: 'Jun 14 2025'
+updatedDate: 'Jun 24 2025'
 heroImage: "../img/scrumflow.png"
 ---
 
@@ -10,8 +10,17 @@ heroImage: "../img/scrumflow.png"
 
 ![javascript image](/img/scrumflow.png)
 
-CONSTRUYENDO LA VISIÓN DEL PRODUCTO: EL CORAZÓN DEL
-PRODUCT OWNER
+### ¿Que hace un Product Owner?
+
+Un Product Owner (PO), o propietario del producto, es el cargo de una organizacion que tiene como funcion principal optimizar maximizando el valor del producto a traves de levantamiento de informacion del cliente. Este tambien puede ser un servicio desarrollado por un equipo TI
+
+El contexto radica en contexto de metodologías agiles como Scrum y otras. 
+
+Su objetivo dentro de la agilidad es priorizar las historias de usuario (HU´s) a desarrollar a través de diferentes métodos, esto se veré organizado y gestionado por el Product Backlog, lo que asegura el desarrollo en equipo entregando; velocidad y eficiencia en el corto plazo. Teniendo una participación activa de stakeholders y clientes del negocio.
+
+
+
+### CONSTRUYENDO LA VISIÓN DEL PRODUCTO: EL CORAZÓN DEL PRODUCT OWNER
 
 Conceptos Fundamentales de la Visión del Producto
 
@@ -79,6 +88,7 @@ competidores tradicionales. Spotify: Streaming vs descargas.
 4. Inspiración: Emociona y moviliza. “Irresistible” (NotCo) atrae
 clientes; “en cualquier momento” (Spotify) empodera a los
 usuarios.
+
 #### El Concepto de Producto Mínimo Viable (MVP)
 
 Es la versión más simple del producto que valida la visión con usuarios
