@@ -3,7 +3,7 @@ title: "Bootcamp: Product Owner"
 description: "Todas las funcionalidades escenciales para desarrollar productos con agilidad"
 pubDate: 'Apr 14 2024'
 updatedDate: 'Apr 24 2024'
-heroImage: "../img/girl1.jpg"
+heroImage: "../img/scrumflow.png)"
 ---
 
 
