@@ -23,7 +23,7 @@ export const portafolioData = [
 		descripcion:
 			'Aplicación que promueve el reciclaje y los hábitos sostenibles mediante un sistema de incentivos.',
 		demoURL: 'https://greenwinlab.my.canva.site/',
-		
+		repoURL: '',
 		anim: 'fade-right',
 		averageBrightness: 0.1,
 	},
