@@ -1,14 +1,14 @@
 ---
-title: "Equipo Formula 1"
-description: "Multidisciplinarios, cohesionados, rápidos y creativos"
+title: "Desarrollador Full Stack Python"
+description: "Bootcamp que me abrio al mundo digital"
 pubDate: 'Jun 14 2025'
 updatedDate: 'Jul 29 2025'
-heroImage: "../img/formula1.jpg"
+heroImage: "../img/pythoncodindojo.png"
 ---
 
 ## Formula 1, Team Product Owner Bootcamp
 
-![javascript image](/img/formula1.jpg)
+![javascript image](/img/pythoncodindojo.png)
 
 Un honor y verdadero gusto haber conocido a personas tan integrales en sus talentos y conocimientos del area, lo cual condujo de forma prolija la motricidad del equipo hacia un desarrollo rapido y concreto de todas las actividades del bootcamp, descatando la creatividad del equipo.
 
