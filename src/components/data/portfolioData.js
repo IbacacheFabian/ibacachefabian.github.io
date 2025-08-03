@@ -40,7 +40,7 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: 'https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/35d8ca6ac2bdfd0e466436c14d3c3f101cf0c11f',
-		title: 'Trekking APP',
+		title: 'Formula 1',
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Desarrollo en fase de Design Thinking, pendiente MVP.',

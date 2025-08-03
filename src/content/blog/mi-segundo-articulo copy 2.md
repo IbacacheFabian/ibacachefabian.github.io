@@ -1,16 +1,18 @@
 ---
-title: "JavaScript:Funciones y ambito de las variables"
-description: "Funciones y Comprendiendo Variables"
-pubDate: 'Apr 14 2024'
-updatedDate: 'Apr 24 2024'
-heroImage: "../img/girl1.jpg"
+title: "Equipo Formula 1"
+description: "Multidisciplinarios, cohesionados, rápidos y creativos"
+pubDate: 'Jun 14 2025'
+updatedDate: 'Jul 29 2025'
+heroImage: "../img/formula1.jpg"
 ---
 
-## JavaScript: Explorando Funciones y Comprendiendo Variables
+## Formula 1, Team Product Owner Bootcamp
 
-![javascript image](/img/monachina2.jpg)
+![javascript image](/img/formula1.jpg)
 
-En esta segunda entrega de nuestra guía práctica de JavaScript, nos sumergiremos en el fascinante mundo de las funciones y exploraremos las sutilezas entre `var`, `let` y `const`. Prepárate para desentrañar estos conceptos cruciales en tu viaje por el desarrollo web.
+Un honor y verdadero gusto haber conocido a personas tan integrales en sus talentos y conocimientos del area, lo cual condujo de forma prolija la motricidad del equipo hacia un desarrollo rapido y concreto de todas las actividades del bootcamp, descatando la creatividad del equipo.
+
+
 
 ## Funciones en JavaScript
 
