@@ -46,7 +46,7 @@ stakeholders; asegurando que
 sea práctica, atractiva y viable
 en contextos corporativos y de mercado.
 
-![javascript image](/img/PO1.png)
+![javascript image](/img/po1.png)
 
 ### Definición de la Visión del Producto
 
@@ -80,7 +80,7 @@ pegamento entre equipo, stakeholders y clientes.
 Componentes de una Visión Efectiva
 Una visión sólida tiene 4 pilares:
 
-![javascript image](/img/PO2.png)
+![javascript image](/img/po2.png)
 
 1. Propósito: Resuelve un problema real. NotCo: “Reducir huella
 ambiental” (alimentación genera 26% CO2 global, FAO, 2024).
@@ -110,7 +110,7 @@ plantea Eric Ries (2011): “Construye, mide, aprende”. Es una herramienta
 fundamental para validar tempranamente la visión de producto,
 asegurando su atractivo para el mercado.”
 
-![javascript image](/img/PO3.png)
+![javascript image](/img/po3.png)
 
 #### Creación de la Visión del Producto
 
@@ -216,8 +216,8 @@ backlog “optimizar IA sabor” (50 historias).
 El enfoque estratégico del PO permite reducir riesgos comunes en
 productos mal alineados con el mercado.
 
-### Reflexión Final
 
+### Reflexión Final
 
 Una visión de producto efectiva es más que palabras; es una fuerza que
 alinea equipos, seduce mercados y genera valor ($20M-$8.000M en
