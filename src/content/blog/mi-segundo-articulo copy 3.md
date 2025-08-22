@@ -10,146 +10,84 @@ heroImage: "../img/agile1.jpg"
 
 ![javascript image](/img/agile1.jpg)
 
-En esta segunda entrega de nuestra guía práctica de JavaScript, nos sumergiremos en el fascinante mundo de las funciones y exploraremos las sutilezas entre `var`, `let` y `const`. Prepárate para desentrañar estos conceptos cruciales en tu viaje por el desarrollo web.
+AGILE INCEPTION: EL PUNTO DE PARTIDA ÁGIL
+Qué es Agile Inception: Definición y Conceptos Fundamentales
+Agile Inception no es solo un taller; es una respuesta a un problema universal:
 
-## Funciones en JavaScript
+## Los proyectos suelen fracasar cuando los equipos y stakeholders no comparten la misma visión al empezar.
 
-Las funciones son bloques de código reutilizables que realizan una tarea específica. Crear una función implica dos pasos fundamentales: la declaración y la ejecución.
+Definido como un proceso colaborativo de 3-5 días, reúne a todos los involucrados—desarrolladores, diseñadores, clientes, ejecutivos—para establecer objetivos, expectativas y un plan inicial antes de cualquier sprint o desarrollo.
+No reemplaza metodologías como Scrum o Kanban, sino que las preceden, actuando como un “punto de partida” estratégico. Se sitúa antes del primer Sprint, ayudando a establecer un marco de referencia común antes de iniciar la iteración.
+Sus conceptos fundamentales son:
 
-### Declaración de Funciones
+● Colaboración(vocesdiversascreanconsenso),
+● Visualización(herramientascomoelCanvasdeProyectohacen
+tangible lo abstracto), y
+● Priorización(enfocarseenloqueentregavalor).
 
-```javascript
-function saludar(nombre) {
-  console.log(`¡Hola, ${nombre}!`);
-}
-```
+¿Por qué es clave? El 60% de los proyectos ágiles fracasan por falta de alineación inicial (PMI, 2024), y en Chile, el 25% de las startups pierden $3.000.000-$7.000.000 por esto (CCS, 2025). NotCo lo vivió en 2022: sin Inception, gastó $10.000.000 en una IA que nadie pidió.
+En 2023, un taller de 4 días ($2.000.000) definió el “saborómetro” como meta, evitando desvíos y asegurando $20.000.000 en ingresos.
 
-Aquí, `saludar` es el nombre de la función, y `(nombre)` son los parámetros que puede aceptar.
+Agile Inception es el mapa que evita que el equipo navegue a ciegas, uniendo ideas en un propósito claro antes de tocar código.
 
-### Ejecución de Funciones
+### Propósito de Agile Inception: Objetivos y Beneficios
 
-```javascript
-saludar("Juan");
-// Salida: ¡Hola, Juan!
-```
+El propósito de Agile Inception va más allá de “empezar bien”; es garantizar que un proyecto ágil no se descarrile por malentendidos desde el día uno. Sus objetivos son tres: definir el alcance (qué se entregará y qué no), aclarar expectativas (qué quieren los stakeholders y usuarios), y trazar un plan inicial (cómo y cuándo arrancar). Esto responde a una necesidad crítica: sin claridad, los equipos desperdician recursos en funciones irrelevantes, como le pasó a NotCo en 2022 con su IA ($10M perdidos).
 
-Al llamar a la función `saludar` con el argumento `"Juan"`, ejecutamos el código dentro de la función y obtenemos la salida esperada.
+Los beneficios son concretos: reduce riesgos (menos retrabajo al acordar prioridades), ahorra tiempo (evita meses de ajustes), y aumenta el éxito (entrega lo que el cliente valora).
+En 2024, SolarPlus, una startup de Santiago, invirtió $1.500.000 en un taller de 3 días para su aplicación de energía solar. Resultado: definieron “calculador solar” como prioridad, lanzaron en 2 meses (vs. 6 proyectados), y ganaron $12.000.000.
 
-### Tipos de Funciones
+En Chile, el 20% de las pymes utilizan Agile Inception, cortando costos iniciales un 25% (CCS, 2025). Comparado con un arranque tradicional, donde el 50% de los proyectos fracasan (Standish, 2024), Agile Inception ofrece una ventaja competitiva: alinea a todos en una visión compartida, Según reportes de empresas como SolarPlus o Falabella, una inversión acotada puede evitar pérdidas millonarias. Es la brújula que convierte la incertidumbre en acción efectiva.
 
-#### Funciones con Valor de Retorno
 
-```javascript
-function sumar(a, b) {
-  return a + b;
-}
+### Agile Inception vs. Lean Inception: Comparación
 
-let resultado = sumar(3, 5);
-// resultado: 8
-```
+Agile Inception y Lean Inception comparten el objetivo de alinear, pero sus enfoques y aplicaciones son diferentes, respondiendo a necesidades distintas en proyectos ágiles. Agile Inception es un taller amplio y exploratorio que busca construir una visión común para proyectos complejos, usando herramientas como el Vision Board o Elevator Pitch. Su meta es responder “¿qué queremos lograr?” antes de cualquier desarrollo. Lean Inception, creado por Paulo Caroli, es más específico y pragmático: se centra en diseñar un Producto Mínimo Viable (MVP) con el Canvas MVP, ideal para equipos que necesitan rapidez y un entregable tangible pronto. ¿Por qué esta distinción? Porque no todos los proyectos requieren lo mismo: Agile Inception es para explorar opciones (como NotCo definiendo “saborómetro” en 2023 con $2.000.000), mientras Lean Inception es para ejecutar rápido (una fintech chilena lanzó un MVP de pagos en 3 semanas por $5.000.000 en 2024). Agile dura 3-5 días y abarca más, Lean suele ser 1-3 días y va al grano.
 
-#### Funciones Anónimas
 
-```javascript
-let saludar = function(nombre) {
-  console.log(`¡Hola, ${nombre}!`);
-};
+En Chile, el 15% de las startups prefieren Lean por velocidad, pero el 35% elige Agile por su profundidad (CCS, 2025). ¿Cuándo usar cada uno? Agile Inception para proyectos grandes o inciertos, Lean Inception para MVPs urgentes. Ambos alinean, pero uno explora el horizonte y el otro corre al primer paso.
 
-saludar("Ana");
-// Salida: ¡Hola, Ana!
-```
+### Agile Inception vs. Sprint 0: Diferencias y similitudes.
 
-#### Arrow Functions
+Agile Inception y Sprint 0 a menudo se confunden, pero sus roles y momentos son distintos, aunque complementarios. Sprint 0 es un concepto informal en Scrum: un “pre-sprint” de 1-2 semanas para tareas operativas como configurar herramientas (Jira, servidores) o entrenar al equipo.
 
-```javascript
-let multiplicar = (a, b) => a * b;
+Cabe destacar que Sprint 0 no es un evento formal de Scrum según la Scrum Guide 2020, pero se aplica comúnmente en la práctica.
 
-let producto = multiplicar(4, 6);
-// producto: 24
-```
+Agile Inception, en cambio, es un taller estratégico de 3-5 días que ocurre antes de cualquier sprint, enfocado en humanos alineales—equipo y stakeholders—en una visión compartida.
 
-Las funciones de flecha (`arrow functions`) son una forma más concisa de escribir funciones.
+#### Similitudes
 
-## Variables: var, let y const
+Ambos preparan el terreno y buscan claridad inicial, evitando arranques caóticos
 
-### `var`
+#### Diferencias
 
-```javascript
-function ejemploVar() {
-  if (true) {
-    var x = 10;
-  }
-  console.log(x);
-}
+Sprint 0 es técnico (cómo empezar), Agile Inception es conceptual (qué empezar).
 
-ejemploVar();
-// Salida: 10
-```
+SolarPlus pudo usar Sprint 0 en 2024 para instalar Jira ($1.000.000), pero sin el taller de Agile Inception anterior ($1.500.000), no habrían definido “calculador solar” como meta, arriesgando $5.000.000 en desvíos.
 
-`var` tiene un ámbito de función, lo que significa que su declaración se eleva al nivel superior de su contexto de ejecución.
+En Chile, el 15% de las empresas combinan ambas (CCS, 2025), usando Inception para visión y Sprint 0 para logística. ¿Cuándo elegir? Agile Inception si la meta está borrosa; Sprint 0 si ya hay acuerdo pero falta configuración. Juntos, son como diseñar un barco y luego equiparlo—dos pasos para zarpar con éxito.
 
-### `let`
+#### Etapas de Agile Inception
 
-```javascript
-function ejemploLet() {
-  if (true) {
-    let y = 20;
-  }
-  console.log(y); // ¡Error!
-}
+Agile Inception no es improvisado; sigue 5 etapas estructuradas que construyen alineación paso a paso, asegurando que cada voz se escuche y cada decisión se fundamente. ¿Por qué estas fases? Porque sin un proceso claro, las reuniones iniciales se vuelven caos—como NotCo en 2022, perdiendo $10.000.000 por falta de foco. Las etapas son:
 
-ejemploLet();
-```
+![javascript image](/img/etapas_agile.png)
 
-`let` tiene un ámbito de bloque, lo que significa que está limitado al bloque de código más cercano.
+1. Preparación: Antes del taller (1-2 días), se invita a un equipo y partes interesadas, se define la agenda y se comparten expectativas. Esto evita sorpresas y asegura compromiso.
 
-### `const`
+2. Visión: Día 1, se crea un Elevator Pitch (ej. “App que calcula ahorro solar en 5 clics”) o Vision Board. Une a todos en un “para qué” claro.
 
-```javascript
-function ejemploConst() {
-  const PI = 3.14;
-  console.log(PI);
-}
+3. Objetivos: Se listan metas (ej. “calculador funcional”) y no-metas (ej. “sin IA compleja”), evitando ambigüedades que cuestan tiempo y dinero.
 
-ejemploConst();
-// Salida: 3.14
-```
+4. Personas y Viajes: Se mapean usuarios (ej. “familias ahorran $500.000 /año”) y sus necesidades, asegurando que el producto resuelva problemas reales.
 
-En este ejemplo, `const` se utiliza para declarar una constante `PI` y se le asigna el valor de `3.14`. Aunque es posible asignar un valor a `const` solo una vez, ten en cuenta que esto no impide que el contenido del objeto al que se refiere cambie si es un objeto mutable.
+5. Plan Inicial: Se priorizan características (ej. “calculador primero”) y se estima un cronograma (ej. “2 meses”). Da un rumbo procesable.
 
-## Scope en JavaScript
 
-El scope se refiere a la accesibilidad y visibilidad de las variables en diferentes partes del código.
+### Dinámicas clave en un taller Agile Inception
 
-### Scope Global
+![javascript image](/img/dinamicas_agile.png)
 
-```javascript
-let globalVar = "Soy global";
+![javascript image](/img/dinamicas_agile2.png)
 
-function ejemploScopeGlobal() {
-  console.log(globalVar);
-}
-
-ejemploScopeGlobal();
-// Salida: Soy global
-```
-
-### Scope Local
-
-```javascript
-function ejemploScopeLocal() {
-  let localVar = "Soy local";
-  console.log(localVar);
-}
-
-ejemploScopeLocal();
-// Salida: Soy local
-
-console.log(localVar); // ¡Error!
-```
-
-Las variables declaradas con `let` y `const` tienen un ámbito de bloque, limitando su accesibilidad al bloque en el que se declaran.
-
-## Conclusión
-
-En esta parte de nuestra guía de JavaScript, hemos explorado cómo crear y ejecutar funciones, así como las diferencias entre `var`, `let` y `const`. Entender estos conceptos es esencial para construir aplicaciones sólidas y comprender cómo las variables afectan el flujo y la estructura de tu código. En la próxima entrega, nos sumergiremos en conceptos más avanzados y te llevaremos a través de ejercicios prácticos para consolidar tus conocimientos. ¡Sigue explorando y desbloquea el potencial de JavaScript en tus proyectos web! 🚀✨
+#### Estas dinámicas permiten al equipo avanzar desde la intuición dispersa hacia una comprensión compartida del producto, sus usuarios y sus objetivos. No es necesario aplicar todas, pero una buena selección asegura que se toquen los puntos críticos del alineamiento inicial.

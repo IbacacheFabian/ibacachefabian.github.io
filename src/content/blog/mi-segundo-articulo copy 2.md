@@ -1,4 +1,3 @@
----
 title: "Desarrollador Full Stack Python"
 description: "Bootcamp que me abrio al mundo digital"
 pubDate: 'Jun 14 2025'
@@ -6,152 +5,65 @@ updatedDate: 'Jul 29 2025'
 heroImage: "../img/pythoncodindojo.png"
 ---
 
-## Formula 1, Team Product Owner Bootcamp
+## Más que Código: Mi Viaje para Convertirme en Desarrollador Full Stack con Python
 
 ![javascript image](/img/pythoncodindojo.png)
 
-Un honor y verdadero gusto haber conocido a personas tan integrales en sus talentos y conocimientos del area, lo cual condujo de forma prolija la motricidad del equipo hacia un desarrollo rapido y concreto de todas las actividades del bootcamp, descatando la creatividad del equipo.
+Hola, soy Fabián Ibacache, y si has llegado a mi portafolio, probablemente te interese el mundo de la tecnología y la gestión de productos. Recientemente, he sumado a mi perfil de Ingeniero Comercial la especialización de Desarrollador Full Stack con Python. 
+
+En este artículo, quiero compartir no solo qué significa este rol, sino por qué creo que es una de las combinaciones más potentes en el mercado actual.
 
 
 
-## Funciones en JavaScript
+## Qué Significa Realmente Ser "Full Stack"?
+
+En el mundo del desarrollo, un producto digital es como un automóvil. Tiene una parte que vemos y con la que interactuamos (la carrocería, el volante, los asientos) y una parte que hace que todo funcione (el motor, la transmisión, el chasis).
+
+El Frontend: Es la parte visible, la interfaz con la que el usuario interactúa. Es el diseño, la usabilidad y la experiencia. En nuestro auto, sería la carrocería y el interior.
+
+El Backend: Es el motor, la lógica y la base de datos que operan "detrás de escena". Procesa la información, se conecta con otros sistemas y asegura que todo funcione de manera segura y eficiente.
 
 Las funciones son bloques de código reutilizables que realizan una tarea específica. Crear una función implica dos pasos fundamentales: la declaración y la ejecución.
 
-### Declaración de Funciones
+Un desarrollador Full Stack es un profesional versátil que entiende y puede trabajar en ambas áreas. Es el mecánico que no solo sabe cambiar una rueda, sino que también puede ajustar el motor. Esta capacidad de moverse por toda la "pila" (stack) tecnológica permite tener una visión completa del producto y resolver problemas de manera integral.
+
+### ¿Por Qué Python? La Elección Estratégica
+
+Mi elección de Python como lenguaje principal no fue al azar. Es conocido por su sintaxis clara y su legibilidad, pero su verdadero poder reside en su increíble versatilidad. Desde el desarrollo de aplicaciones web robustas hasta el análisis de datos, la inteligencia artificial y la automatización de tareas, Python es una navaja suiza que se adapta a casi cualquier desafío tecnológico.
+
+
+### El Puente Definitivo entre el Negocio y la Tecnología.
+
+Aquí es donde mi historia cobra sentido. Mi carrera comenzó en el mundo de la gestión comercial , el marketing y las ventas. En roles desde Enjoy Antofagasta hasta Mallplaza y Salfa, aprendí a entender el "porqué": ¿Por qué un cliente elige un producto? ¿Qué problema estamos resolviendo? ¿Cómo generamos ingresos y rentabilidad?
+
+Sin embargo, a menudo veía una brecha entre las necesidades del negocio y la ejecución técnica. Fue esa brecha la que me motivó a formarme como Desarrollador Full Stack y Product Owner. Quería entender el "cómo".
 
 ```javascript
-function saludar(nombre) {
-  console.log(`¡Hola, ${nombre}!`);
-}
+Mi perfil actual me permite:
+
+- Hablar ambos idiomas: Puedo participar en una reunión de estrategia de ventas por la mañana y en una planificación técnica con el equipo de desarrollo por la tarde.
+
+- Evaluar la viabilidad: Entiendo las implicaciones técnicas de una idea de negocio, lo que permite tomar decisiones más realistas y eficientes.
+
+- Construir con propósito: Escribo código no solo para que funcione, sino para que resuelva un problema de negocio específico y entregue valor medible.
 ```
 
-Aquí, `saludar` es el nombre de la función, y `(nombre)` son los parámetros que puede aceptar.
 
-### Ejecución de Funciones
+### Habilidades en Acción
 
-```javascript
-saludar("Juan");
-// Salida: ¡Hola, Juan!
-```
+Mi formación me ha dotado de un conjunto de herramientas prácticas para materializar esta visión:
 
-Al llamar a la función `saludar` con el argumento `"Juan"`, ejecutamos el código dentro de la función y obtenemos la salida esperada.
 
-### Tipos de Funciones
+1. Frontend: Creación de interfaces de usuario interactivas con HTML y CSS.
 
-#### Funciones con Valor de Retorno
 
-```javascript
-function sumar(a, b) {
-  return a + b;
-}
+2. Backend: Desarrollo de la lógica del servidor y APIs con Python.
 
-let resultado = sumar(3, 5);
-// resultado: 8
-```
 
-#### Funciones Anónimas
+3. Bases de Datos: Gestión y consulta de información con SQL.
 
-```javascript
-let saludar = function(nombre) {
-  console.log(`¡Hola, ${nombre}!`);
-};
+#### Conclusión:
 
-saludar("Ana");
-// Salida: ¡Hola, Ana!
-```
+Para mí, ser un Desarrollador Full Stack no se trata solo de dominar un conjunto de tecnologías. Se trata de tener una visión 360° para construir soluciones completas. Es la combinación de mi experiencia comercial con la capacidad técnica para crear, innovar y resolver problemas de principio a fin.
 
-#### Arrow Functions
-
-```javascript
-let multiplicar = (a, b) => a * b;
-
-let producto = multiplicar(4, 6);
-// producto: 24
-```
-
-Las funciones de flecha (`arrow functions`) son una forma más concisa de escribir funciones.
-
-## Variables: var, let y const
-
-### `var`
-
-```javascript
-function ejemploVar() {
-  if (true) {
-    var x = 10;
-  }
-  console.log(x);
-}
-
-ejemploVar();
-// Salida: 10
-```
-
-`var` tiene un ámbito de función, lo que significa que su declaración se eleva al nivel superior de su contexto de ejecución.
-
-### `let`
-
-```javascript
-function ejemploLet() {
-  if (true) {
-    let y = 20;
-  }
-  console.log(y); // ¡Error!
-}
-
-ejemploLet();
-```
-
-`let` tiene un ámbito de bloque, lo que significa que está limitado al bloque de código más cercano.
-
-### `const`
-
-```javascript
-function ejemploConst() {
-  const PI = 3.14;
-  console.log(PI);
-}
-
-ejemploConst();
-// Salida: 3.14
-```
-
-En este ejemplo, `const` se utiliza para declarar una constante `PI` y se le asigna el valor de `3.14`. Aunque es posible asignar un valor a `const` solo una vez, ten en cuenta que esto no impide que el contenido del objeto al que se refiere cambie si es un objeto mutable.
-
-## Scope en JavaScript
-
-El scope se refiere a la accesibilidad y visibilidad de las variables en diferentes partes del código.
-
-### Scope Global
-
-```javascript
-let globalVar = "Soy global";
-
-function ejemploScopeGlobal() {
-  console.log(globalVar);
-}
-
-ejemploScopeGlobal();
-// Salida: Soy global
-```
-
-### Scope Local
-
-```javascript
-function ejemploScopeLocal() {
-  let localVar = "Soy local";
-  console.log(localVar);
-}
-
-ejemploScopeLocal();
-// Salida: Soy local
-
-console.log(localVar); // ¡Error!
-```
-
-Las variables declaradas con `let` y `const` tienen un ámbito de bloque, limitando su accesibilidad al bloque en el que se declaran.
-
-## Conclusión
-
-En esta parte de nuestra guía de JavaScript, hemos explorado cómo crear y ejecutar funciones, así como las diferencias entre `var`, `let` y `const`. Entender estos conceptos es esencial para construir aplicaciones sólidas y comprender cómo las variables afectan el flujo y la estructura de tu código. En la próxima entrega, nos sumergiremos en conceptos más avanzados y te llevaremos a través de ejercicios prácticos para consolidar tus conocimientos. ¡Sigue explorando y desbloquea el potencial de JavaScript en tus proyectos web! 🚀✨
+Mi objetivo es utilizar esta perspectiva integral para liderar y construir productos que no solo sean técnicamente sólidos, sino que también impulsen el crecimiento y generen un impacto real en el negocio.
