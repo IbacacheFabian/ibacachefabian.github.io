@@ -20,8 +20,8 @@ Definido como un proceso colaborativo de 3-5 días, reúne a todos los involucra
 No reemplaza metodologías como Scrum o Kanban, sino que las preceden, actuando como un “punto de partida” estratégico. Se sitúa antes del primer Sprint, ayudando a establecer un marco de referencia común antes de iniciar la iteración.
 Sus conceptos fundamentales son:
 
-● Colaboración: (voces diversas crean consenso),
-● Visualización: (herramientas como el Canvas de Proyecto hacen tangible lo abstracto)
+● Colaboración: (voces diversas crean consenso).
+● Visualización: (herramientas como el Canvas de Proyecto hacen tangible lo abstracto).
 ● Priorización: (enfocarse en lo que entrega valor).
 
 ¿Por qué es clave? El 60% de los proyectos ágiles fracasan por falta de alineación inicial (PMI, 2024), y en Chile, el 25% de las startups pierden $3.000.000-$7.000.000 por esto (CCS, 2025). NotCo lo vivió en 2022: sin Inception, gastó $10.000.000 en una IA que nadie pidió.
