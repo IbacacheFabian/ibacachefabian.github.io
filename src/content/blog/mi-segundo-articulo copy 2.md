@@ -1,3 +1,4 @@
+---
 title: "Desarrollador Full Stack Python"
 description: "Bootcamp que me abrio al mundo digital"
 pubDate: 'Jun 14 2025'
