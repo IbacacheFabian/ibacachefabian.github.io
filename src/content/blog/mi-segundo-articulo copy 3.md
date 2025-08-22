@@ -20,10 +20,9 @@ Definido como un proceso colaborativo de 3-5 días, reúne a todos los involucra
 No reemplaza metodologías como Scrum o Kanban, sino que las preceden, actuando como un “punto de partida” estratégico. Se sitúa antes del primer Sprint, ayudando a establecer un marco de referencia común antes de iniciar la iteración.
 Sus conceptos fundamentales son:
 
-● Colaboración(vocesdiversascreanconsenso),
-● Visualización(herramientascomoelCanvasdeProyectohacen
-tangible lo abstracto), y
-● Priorización(enfocarseenloqueentregavalor).
+● Colaboración: (voces diversas crean consenso),
+● Visualización: (herramientas como el Canvas de Proyecto hacen tangible lo abstracto)
+● Priorización: (enfocarse en lo que entrega valor).
 
 ¿Por qué es clave? El 60% de los proyectos ágiles fracasan por falta de alineación inicial (PMI, 2024), y en Chile, el 25% de las startups pierden $3.000.000-$7.000.000 por esto (CCS, 2025). NotCo lo vivió en 2022: sin Inception, gastó $10.000.000 en una IA que nadie pidió.
 En 2023, un taller de 4 días ($2.000.000) definió el “saborómetro” como meta, evitando desvíos y asegurando $20.000.000 en ingresos.
@@ -34,8 +33,12 @@ Agile Inception es el mapa que evita que el equipo navegue a ciegas, uniendo ide
 
 El propósito de Agile Inception va más allá de “empezar bien”; es garantizar que un proyecto ágil no se descarrile por malentendidos desde el día uno. Sus objetivos son tres: definir el alcance (qué se entregará y qué no), aclarar expectativas (qué quieren los stakeholders y usuarios), y trazar un plan inicial (cómo y cuándo arrancar). Esto responde a una necesidad crítica: sin claridad, los equipos desperdician recursos en funciones irrelevantes, como le pasó a NotCo en 2022 con su IA ($10M perdidos).
 
+
 Los beneficios son concretos: reduce riesgos (menos retrabajo al acordar prioridades), ahorra tiempo (evita meses de ajustes), y aumenta el éxito (entrega lo que el cliente valora).
+
+
 En 2024, SolarPlus, una startup de Santiago, invirtió $1.500.000 en un taller de 3 días para su aplicación de energía solar. Resultado: definieron “calculador solar” como prioridad, lanzaron en 2 meses (vs. 6 proyectados), y ganaron $12.000.000.
+
 
 En Chile, el 20% de las pymes utilizan Agile Inception, cortando costos iniciales un 25% (CCS, 2025). Comparado con un arranque tradicional, donde el 50% de los proyectos fracasan (Standish, 2024), Agile Inception ofrece una ventaja competitiva: alinea a todos en una visión compartida, Según reportes de empresas como SolarPlus o Falabella, una inversión acotada puede evitar pérdidas millonarias. Es la brújula que convierte la incertidumbre en acción efectiva.
 
