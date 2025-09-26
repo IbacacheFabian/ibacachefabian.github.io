@@ -6,7 +6,8 @@ updatedDate: 'Jun 25 2025'
 heroImage: "../img/design-thinking.webp"
 ---
 
-## JavaScript: Explorando Funciones y Comprendiendo Variables
+## Qué es Design Thinking: El Arte de Pensar con las Manos y el Alma
+
 
 ![javascript image](/design-thinking.webp)
 
