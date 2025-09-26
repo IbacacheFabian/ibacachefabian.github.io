@@ -71,6 +71,9 @@ Beneficio: soluciones profundas; límite: semanas de trabajo.
 
 Una pyme podría usar Design Thinking para un juguete nuevo, Sprint para una función y Lean UX para pulirla. El 80% de las buenas prácticas los combinan (McKinsey, 2021), ofreciendo flexibilidad para cada desafío.
 
+
 ![javascript image](/img/IMAGENdesignthinking.jpg)
+
+
 
 Finalmente, la importancia de Design Thinking en el diseño de productos centrados en el usuario reside en su poder para convertir las necesidades humanas en soluciones prácticas y significativas. Esta metodología asegura que los productos no sean solo objetos funcionales, sino respuestas profundas a las vidas de las personas, al empatizar con sus experiencias, definir sus retos y probar ideas de forma iterativa. Así, crea experiencias que no solo resuelven problemas, sino que generan una conexión emocional con los usuarios, logrando que el 85% de las empresas que lo implementan mejoren la satisfacción del cliente (Forbes, 2021). Design Thinking es el puente esencial entre la utilidad técnica y el corazón del diseño.
