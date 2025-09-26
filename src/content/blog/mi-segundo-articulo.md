@@ -33,11 +33,11 @@ Design Thinking tiene un ADN distintivo que lo hace brillar: está centrado en e
 Tal como mencionamos anteriormente, Design Thinking se despliega en cinco etapas que son como un baile
 ```
 
-1. Empatizar: Métase en la piel del usuario. En Kenia, IDEO charló con agricultores y vio que las bombas fallaban por desconocimiento, no por defectos.
-2. Definir: Afine el problema. Pasaron de "las bombas se rompen" a "¿Cómo capacitamos a las comunidades?".
-3. Idear: Llueva ideas sin miedo. Manuales de cirujano, kits, talleres—sin filtros, solo posibilidades.
-4. Prototipar: Haga tangible lo intangible. Creen un kit de herramientas en días, con materiales al alcance.
-5. Probar: Ponga a prueba y mejore. Los agricultores pidieron dibujos en vez de texto, y el uso se triplicó.
+● 1. Empatizar: Métase en la piel del usuario. En Kenia, IDEO charló con agricultores y vio que las bombas fallaban por desconocimiento, no por defectos.
+● 2. Definir: Afine el problema. Pasaron de "las bombas se rompen" a "¿Cómo capacitamos a las comunidades?".
+● 3. Idear: Llueva ideas sin miedo. Manuales de cirujano, kits, talleres—sin filtros, solo posibilidades.
+● 4. Prototipar: Haga tangible lo intangible. Creen un kit de herramientas en días, con materiales al alcance.
+● 5. Probar: Ponga a prueba y mejore. Los agricultores pidieron dibujos en vez de texto, y el uso se triplicó.
 
 
 ```javascript
