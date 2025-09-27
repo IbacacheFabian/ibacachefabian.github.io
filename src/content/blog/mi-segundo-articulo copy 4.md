@@ -1,155 +1,117 @@
 ---
-title: "Marketing Digital"
-description: "Herramientas para propulsar tu negocio"
-pubDate: 'Apr 5 2025'
-updatedDate: 'Jun 26 2025'
+title: "Marketing Digital en Chile"
+description: "Estrategias modernas para un mercado conectado"
+pubDate: 'Jul 08 2025'
+updatedDate: 'Sep 26 2025'
 heroImage: "../img/marketing.jpg"
 ---
 
-## JavaScript: Explorando Funciones y Comprendiendo Variables
+## Marketing Digital en Chile: Conectando Marcas con Personas en la Era Moderna  
 
-![javascript image](/img/marketing.jpg)
+&nbsp;  
 
-En esta segunda entrega de nuestra guía práctica de JavaScript, nos sumergiremos en el fascinante mundo de las funciones y exploraremos las sutilezas entre `var`, `let` y `const`. Prepárate para desentrañar estos conceptos cruciales en tu viaje por el desarrollo web.
+![marketing image](/img/marketing.jpg)
 
-## Funciones en JavaScript
+&nbsp;  
 
-Las funciones son bloques de código reutilizables que realizan una tarea específica. Crear una función implica dos pasos fundamentales: la declaración y la ejecución.
+El **marketing digital** ha dejado de ser una opción y se ha convertido en el corazón de la estrategia comercial en Chile.  
 
-### Declaración de Funciones
+En un país donde más del **90% de la población accede a internet diariamente** (Subtel, 2024), las marcas deben adaptarse a un público cada vez más informado, exigente y conectado.  
 
-```javascript
-function saludar(nombre) {
-  console.log(`¡Hola, ${nombre}!`);
-}
-```
+Ya no basta con aparecer en la televisión o repartir volantes en la esquina: el cliente chileno quiere **personalización, interacción y confianza**.  
 
-Aquí, `saludar` es el nombre de la función, y `(nombre)` son los parámetros que puede aceptar.
+&nbsp;  
 
-### Ejecución de Funciones
+Un café en Valparaíso puede aumentar sus ventas un **40% en tres meses** usando campañas en Instagram; una tienda de bicicletas en Santiago logra duplicar consultas con Google Ads bien segmentados. El marketing digital es hoy la vitrina más poderosa para las pymes y grandes empresas por igual.  
 
-```javascript
-saludar("Juan");
-// Salida: ¡Hola, Juan!
-```
+&nbsp;  
 
-Al llamar a la función `saludar` con el argumento `"Juan"`, ejecutamos el código dentro de la función y obtenemos la salida esperada.
+![marketing image](/img/redes-marketing.png)
 
-### Tipos de Funciones
+&nbsp;  
 
-#### Funciones con Valor de Retorno
+---
 
-```javascript
-function sumar(a, b) {
-  return a + b;
-}
+## Características del Marketing Digital Moderno  
 
-let resultado = sumar(3, 5);
-// resultado: 8
-```
+El marketing digital tiene un ADN que lo diferencia de las formas tradicionales:  
 
-#### Funciones Anónimas
+- <span style="color:white;">**Interactividad**: las marcas conversan con el cliente en tiempo real, no solo le hablan.</span>  
+- <span style="color:white;">**Personalización**: los anuncios ya no son masivos; se ajustan según intereses, ubicación e historial.</span>  
+- <span style="color:white;">**Medición precisa**: cada clic, cada vista, cada compra se registra y analiza.</span>  
+- <span style="color:white;">**Accesibilidad**: una pyme en Osorno puede competir con una multinacional gracias a campañas digitales accesibles.</span>  
 
-```javascript
-let saludar = function(nombre) {
-  console.log(`¡Hola, ${nombre}!`);
-};
+En Chile, donde el emprendimiento ha crecido exponencialmente, estas características permiten a negocios pequeños alcanzar clientes de Arica a Punta Arenas con un simple celular.  
 
-saludar("Ana");
-// Salida: ¡Hola, Ana!
-```
+&nbsp;  
 
-#### Arrow Functions
+![marketing image](/img/caracteristicas-marketing.png)
 
-```javascript
-let multiplicar = (a, b) => a * b;
+&nbsp;  
 
-let producto = multiplicar(4, 6);
-// producto: 24
-```
+---
 
-Las funciones de flecha (`arrow functions`) son una forma más concisa de escribir funciones.
+## Estrategias Digitales en Chile: Cinco Pilares del Éxito  
 
-## Variables: var, let y const
+El marketing digital se sostiene en cinco grandes pilares:  
 
-### `var`
+1. **SEO (Posicionamiento en buscadores)**  
+   *Ejemplo*: una librería en Temuco aumenta tráfico orgánico un **120%** optimizando sus descripciones de libros.  
 
-```javascript
-function ejemploVar() {
-  if (true) {
-    var x = 10;
-  }
-  console.log(x);
-}
+2. **SEM (Publicidad pagada)**  
+   *Ejemplo*: un taller mecánico en La Serena usa Google Ads y recibe clientes nuevos cada semana.  
 
-ejemploVar();
-// Salida: 10
-```
+3. **Redes Sociales**  
+   *Ejemplo*: una cafetería en Ñuñoa crea reels en TikTok y logra viralizar sus promociones.  
 
-`var` tiene un ámbito de función, lo que significa que su declaración se eleva al nivel superior de su contexto de ejecución.
+4. **Email Marketing**  
+   *Ejemplo*: una tienda de ropa en Antofagasta envía newsletters con descuentos personalizados, aumentando la tasa de recompra en un **35%**.  
 
-### `let`
+5. **Contenido de valor (Inbound Marketing)**  
+   *Ejemplo*: un abogado en Concepción genera artículos en LinkedIn y consigue nuevos clientes sin gastar en publicidad.  
 
-```javascript
-function ejemploLet() {
-  if (true) {
-    let y = 20;
-  }
-  console.log(y); // ¡Error!
-}
+&nbsp;  
 
-ejemploLet();
-```
+El **70% de los negocios chilenos** que aplican estas estrategias logran mayor retención de clientes y crecimiento sostenible (CCS, 2023).  
 
-`let` tiene un ámbito de bloque, lo que significa que está limitado al bloque de código más cercano.
+&nbsp;  
 
-### `const`
+![marketing image](/img/pilares-marketing.png)
 
-```javascript
-function ejemploConst() {
-  const PI = 3.14;
-  console.log(PI);
-}
+&nbsp;  
 
-ejemploConst();
-// Salida: 3.14
-```
+---
 
-En este ejemplo, `const` se utiliza para declarar una constante `PI` y se le asigna el valor de `3.14`. Aunque es posible asignar un valor a `const` solo una vez, ten en cuenta que esto no impide que el contenido del objeto al que se refiere cambie si es un objeto mutable.
+## Marketing Digital vs. Marketing Tradicional: Dos Mundos que se Encuentran  
 
-## Scope en JavaScript
+Ambos enfoques coexisten, pero con diferencias clave:  
 
-El scope se refiere a la accesibilidad y visibilidad de las variables en diferentes partes del código.
+1. **Marketing Digital**:  
+   - <span style="color:white;">**Beneficio**: medición exacta y segmentación.</span>  
+   - <span style="color:white;">**Límite**: requiere aprendizaje y constante actualización.</span>  
 
-### Scope Global
+2. **Marketing Tradicional**:  
+   - <span style="color:white;">**Beneficio**: gran alcance masivo, especialmente en televisión y radio.</span>  
+   - <span style="color:white;">**Límite**: poca precisión para medir resultados.</span>  
 
-```javascript
-let globalVar = "Soy global";
+En Chile, campañas combinadas funcionan mejor: una pyme en Puerto Montt puede pautar en radio local y al mismo tiempo correr anuncios en Facebook para aumentar la recordación de marca.  
 
-function ejemploScopeGlobal() {
-  console.log(globalVar);
-}
+&nbsp;  
 
-ejemploScopeGlobal();
-// Salida: Soy global
-```
+![marketing image](/img/marketing-comparacion.jpg)
 
-### Scope Local
+&nbsp;  
 
-```javascript
-function ejemploScopeLocal() {
-  let localVar = "Soy local";
-  console.log(localVar);
-}
+---
 
-ejemploScopeLocal();
-// Salida: Soy local
+## Conclusión  
 
-console.log(localVar); // ¡Error!
-```
+El marketing digital en Chile no es solo una herramienta de ventas: es un **lenguaje de conexión** entre las marcas y las personas.  
 
-Las variables declaradas con `let` y `const` tienen un ámbito de bloque, limitando su accesibilidad al bloque en el que se declaran.
+Su fuerza radica en la **empatía y cercanía** que logra con los usuarios, generando confianza y construyendo relaciones duraderas.  
 
-## Conclusión
+Hoy, una marca chilena no necesita grandes presupuestos para triunfar: necesita **estrategia, creatividad y consistencia**.  
 
-En esta parte de nuestra guía de JavaScript, hemos explorado cómo crear y ejecutar funciones, así como las diferencias entre `var`, `let` y `const`. Entender estos conceptos es esencial para construir aplicaciones sólidas y comprender cómo las variables afectan el flujo y la estructura de tu código. En la próxima entrega, nos sumergiremos en conceptos más avanzados y te llevaremos a través de ejercicios prácticos para consolidar tus conocimientos. ¡Sigue explorando y desbloquea el potencial de JavaScript en tus proyectos web! 🚀✨
+El **80% de las pymes chilenas** que aplican marketing digital han reportado mejoras en ventas y fidelización de clientes (ProChile, 2024).  
+
+**El marketing digital es el nuevo puente entre las ideas locales y el mundo global.**
