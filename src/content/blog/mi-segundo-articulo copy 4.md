@@ -26,7 +26,7 @@ Un café en Valparaíso puede aumentar sus ventas un **40% en tres meses** usand
 
 &nbsp;  
 
-![marketing image](/img/redes-marketing.png)
+![marketing image](/img/redes-marketing.jpg)
 
 &nbsp;  
 
@@ -45,7 +45,7 @@ En Chile, donde el emprendimiento ha crecido exponencialmente, estas caracterís
 
 &nbsp;  
 
-![marketing image](/img/caracteristicas-marketing.png)
+![marketing image](/img/tendencias-marketing.jpg)
 
 &nbsp;  
 
@@ -76,7 +76,7 @@ El **70% de los negocios chilenos** que aplican estas estrategias logran mayor r
 
 &nbsp;  
 
-![marketing image](/img/pilares-marketing.png)
+![marketing image](/img/pilares-marketing.webp)
 
 &nbsp;  
 
@@ -98,7 +98,7 @@ En Chile, campañas combinadas funcionan mejor: una pyme en Puerto Montt puede p
 
 &nbsp;  
 
-![marketing image](/img/marketing-comparacion.jpg)
+![marketing image](/img/comparativa-marketing.png)
 
 &nbsp;  
 
